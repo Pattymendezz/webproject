@@ -1,0 +1,20 @@
+# Ignore system files
+.DS_Store
+Thumbs.db
+
+# CodeIgniter files
+/application/cache/*
+/application/logs/*
+/vendor/
+
+# Environment files
+.env
+
+# IDE / Editor
+.vscode/
+*.sublime-project
+*.sublime-workspace
+*.idea/
+
+# OS generated files
+*.log
